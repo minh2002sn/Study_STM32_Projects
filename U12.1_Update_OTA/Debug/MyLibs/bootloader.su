@@ -1,0 +1,7 @@
+bootloader.c:14:6:min_application_handler	40	static
+bootloader.c:77:6:BOOTLOADER_Init	8	static
+bootloader.c:81:6:BOOTLOADER_Handle	16	static
+bootloader.c:91:6:BOOTLOADER_Request_Update	4	static
+bootloader.c:95:6:BOOTLOADER_Send_Data	16	static
+bootloader.c:99:6:OTA_Send_Code	24	static
+bootloader.c:107:6:OTA_Send_Response	24	static

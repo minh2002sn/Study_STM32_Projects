@@ -1,0 +1,5 @@
+port_min.c:3:10:min_time_ms	8	static
+port_min.c:7:10:min_tx_space	16	static
+port_min.c:11:6:min_tx_byte	16	static
+port_min.c:16:6:min_tx_start	16	static
+port_min.c:20:6:min_tx_finished	16	static
