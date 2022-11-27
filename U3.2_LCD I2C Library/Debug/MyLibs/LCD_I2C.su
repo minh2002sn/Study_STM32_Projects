@@ -1,0 +1,14 @@
+LCD_I2C.c:3:6:LCD_Init	24	static
+LCD_I2C.c:35:6:LCD_Write	44	dynamic
+LCD_I2C.c:48:6:LCD_Write_Custom_Char	16	static
+LCD_I2C.c:52:6:LCD_clear	16	static
+LCD_I2C.c:57:6:LCD_Set_Cursor	24	static
+LCD_I2C.c:63:6:LCD_Create_Char	32	static
+LCD_I2C.c:70:6:LCD_Backlight	16	static
+LCD_I2C.c:75:6:LCD_No_Backlight	16	static
+LCD_I2C.c:80:6:LCD_Cursor_Blink	16	static
+LCD_I2C.c:85:6:LCD_Cursor_No_Blink	16	static
+LCD_I2C.c:90:6:LCD_Display_On	16	static
+LCD_I2C.c:95:6:LCD_Display_Off	16	static
+LCD_I2C.c:100:6:LCD_Send_Command	32	static
+LCD_I2C.c:114:6:LCD_Send_Data	32	static
