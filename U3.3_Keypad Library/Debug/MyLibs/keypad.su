@@ -1,0 +1,10 @@
+keypad.c:28:13:KeypadPressingCallback	16	static
+keypad.c:32:13:KeypadPressedShortCallback	16	static
+keypad.c:36:13:KeypadReleaseCallback	16	static
+keypad.c:41:13:KeypadPressingTimeoutCallback	16	static
+keypad.c:46:6:KeyPad_Select_Row	16	static
+keypad.c:50:6:KeyPad_UnSelect_Row	16	static
+keypad.c:58:16:KeyPad_GetKey	16	static
+keypad.c:75:13:Keypad_Filter	16	static
+keypad.c:92:6:Keypad_Handle	8	static
+keypad.c:124:6:Keypad_Init	4	static
