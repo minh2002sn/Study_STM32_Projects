@@ -1,0 +1,2 @@
+cli_command.c:5:27:find_command_info	24	static
+cli_command.c:17:6:cli_command_execute	72	static

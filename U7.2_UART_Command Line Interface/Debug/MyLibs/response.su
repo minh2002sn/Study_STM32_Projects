@@ -1,0 +1,2 @@
+response.c:5:6:response_init	16	static
+response.c:9:6:response_print	72	static
