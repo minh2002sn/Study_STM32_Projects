@@ -1,0 +1,5 @@
+uart.c:10:6:UART_Init	8	static
+uart.c:14:6:UART_Receive	16	static
+uart.c:18:6:UART_Handle	4	static
+uart.c:25:9:UART_Read	16	static
+uart.c:31:10:UART_Available	8	static
