@@ -1,0 +1,13 @@
+main.c:75:6:btn_pressing_callback	4	static
+main.c:89:6:btn_release_callback	4	static
+main.c:94:6:btn_press_short_callback	4	static
+main.c:102:6:btn_press_long_callback	4	static
+main.c:114:6:button_handle	16	static
+main.c:149:6:led_off	8	static
+main.c:153:6:led_blink_1hz	8	static
+main.c:161:6:led_blink_5hz	8	static
+main.c:169:6:led_handle	8	static
+main.c:189:5:main	8	static
+main.c:234:6:SystemClock_Config	72	static
+main.c:273:13:MX_GPIO_Init	40	static
+main.c:309:6:Error_Handler	4	static,ignoring_inline_asm
