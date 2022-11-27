@@ -1,0 +1,6 @@
+button.c:4:13:btn_pressing_callback	16	static
+button.c:8:13:btn_release_callback	16	static
+button.c:12:13:btn_press_short_callback	16	static
+button.c:16:13:btn_press_long_callback	16	static
+button.c:20:6:button_handle	24	static
+button.c:54:6:button_init	24	static
